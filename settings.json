@@ -84,7 +84,7 @@
   },
   "chat": {
     "respond": true
-  }
+  },
   "drop-slot": {
     "enabled": true,
     "slot": 4,
